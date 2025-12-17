@@ -149,10 +149,28 @@
     <div class="container">
         <div class="welcome-section">
             <h1>Welcome! Want to start matching?</h1>
-            <p>Follow user manual to find out key features.</p>
-        </div>
+            <p>Follow this user guide to start your experience.</p>
+            <br><br><br><br>
 
-        <div class="cards-grid">
+            <h2>User Guide</h2>
+        </div>
+            <h3>Matching Availability</h3>
+            <p>1. From the navigation bar, click on the Availabiliy.<br>
+            2. Click and drag the time slots you are available, from the dates your group discussed.<br>
+            3. To match availability with users, click the button "Public Users" found on top of the page and select users you want to compare your availability with.<br>
+            4. Manage visibility with the buttons Public, Private, and Delete.<br>
+            </p>
+            <br><br>
+
+            <h3>Matching Class Details</h3>
+            <p>1. From the navigation bar, click on the Courses.<br>
+            2. Add class details to start matching with other users.<br>
+            3. Users with similar details would appear on the right.<br>
+            4. If you find a match, you can click on their username to message them.<br>
+            5. Messages are on the bottom right corner of the page.
+
+            </p>
+        </div>
             
         </div>
     </div>
